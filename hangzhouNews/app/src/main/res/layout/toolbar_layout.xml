@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_centerVertical="true"
+        android:id="@+id/index_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:textColor="@color/white"
+        android:textSize="21dp" />
+
+    <Button
+        android:id="@+id/track_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/region_picker"
+
+        android:background="@null"
+        android:text="记录"
+        android:textColor="@color/white" />
+
+    <com.sunland.hangzhounews.SpinButton
+        android:id="@+id/region_picker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="8dp"
+        android:drawableRight="@drawable/ic_arrow_drop_down"
+        android:gravity="center_vertical"
+        android:text="地区"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

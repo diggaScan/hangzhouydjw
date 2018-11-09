@@ -1,0 +1,171 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: "Î¢ÈíÑÅºÚ","ËÎÌå"
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+A {
+	COLOR: #025ab3; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #3db4ee
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+.top {
+	MARGIN: auto; WIDTH: 962px
+}
+.main {
+	MARGIN: auto; WIDTH: 962px
+}
+.footer {
+	MARGIN: auto; WIDTH: 962px
+}
+.main .left {
+	MIN-HEIGHT: 550px; BACKGROUND: #f2fafd; FLOAT: left; WIDTH: 190px; HEIGHT: 550px
+}
+.main .right {
+	FLOAT: left; MARGIN-LEFT: 10px; PADDING-TOP: 15px
+}
+.main .left .clalist {
+	MARGIN-TOP: 15px
+}
+.main .left .clalist UL LI {
+	PADDING-LEFT: 53px; FONT-SIZE: 14px; MARGIN-BOTTOM: 3px; MARGIN-LEFT: 5px; LINE-HEIGHT: 30px; HEIGHT: 30px
+}
+.main .left .clalist UL LI {
+	
+}
+.xin {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #f00
+}
+.footer {
+	BORDER-TOP: #b2cde2 1px solid; BACKGROUND: url(../images/v1/dbj.jpg) repeat-x; COLOR: #666; LINE-HEIGHT: 35px; HEIGHT: 35px; TEXT-ALIGN: center
+}
+.paging {
+	MARGIN: auto; COLOR: #666
+}
+.TabTh {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: #f0f9fe; COLOR: #474948; LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+.TabTd {
+	LINE-HEIGHT: 23px; HEIGHT: 23px; TEXT-ALIGN: center
+}
+.tab1 {
+	BACKGROUND: #b1ccdd; WIDTH: 100%
+}
+.tab1 .th {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: #f0f9fe; COLOR: #474948; LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+.tab1 TD {
+	LINE-HEIGHT: 23px; HEIGHT: 23px; TEXT-ALIGN: center
+}
+.TabRow1 {
+	BACKGROUND: #f9f9f9; LINE-HEIGHT: 23px
+}
+.TabRow2 {
+	BACKGROUND: #fff; LINE-HEIGHT: 23px
+}
+.xxcz .xz {
+	CURSOR: pointer
+}
+.xxcz IMG {
+	PADDING-TOP: 3px
+}
+.myqu {
+	BACKGROUND: url(../images/v1/myqu.jpg) no-repeat; MARGIN-BOTTOM: 13px; OVERFLOW: hidden; ZOOM: 1; HEIGHT: 60px
+}
+.myqu .l {
+	FLOAT: left; WIDTH: 160px; HEIGHT: 55px
+}
+.myqu .l A {
+	DISPLAY: block; HEIGHT: 55px
+}
+.myqu .r {
+	MARGIN-TOP: 35px; FLOAT: right
+}
+.myqu .btsearch {
+	
+}
+.myqu .key {
+	FLOAT: left
+}
+.myqu .btn {
+	FLOAT: left
+}
+.myquFile {
+	MARGIN-BOTTOM: 13px; OVERFLOW: hidden; ZOOM: 1; HEIGHT: 30px
+}
+.myquFile .r {
+	MARGIN-TOP: 5px; FLOAT: right
+}
+.myquFile .btsearch {
+	
+}
+.myquFile .key {
+	FLOAT: left
+}
+.myquFile .btn {
+	FLOAT: left
+}
+.qu {
+	BORDER-RIGHT: #d2e1e8 1px solid; BORDER-TOP: #d2e1e8 1px solid; BORDER-LEFT: #d2e1e8 1px solid; BORDER-BOTTOM: #d2e1e8 1px solid
+}
+.qu .tit {
+	FONT-SIZE: 16px; BACKGROUND: #f2fafd; COLOR: #363a3b; LINE-HEIGHT: 40px; BORDER-BOTTOM: #d2e1e8 1px solid; HEIGHT: 40px
+}
+.qu .bg {
+	PADDING-LEFT: 50px; BACKGROUND: url(../images/v1/th.jpg) no-repeat 10px 5px
+}
+.qu .lx {
+	PADDING-LEFT: 10px; COLOR: #666; LINE-HEIGHT: 25px; BORDER-BOTTOM: #ccc 1px dotted; HEIGHT: 25px
+}
+.qu .content {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; LINE-HEIGHT: 23px; PADDING-TOP: 5px
+}
+.qu .ippic {
+	PADDING-LEFT: 30px; BACKGROUND: url(../images/v1/ippic.gif) no-repeat 15px 18px; COLOR: #ccc; PADDING-TOP: 15px; HEIGHT: 30px
+}
+.qu {
+	MARGIN-BOTTOM: 10px
+}
+.hf {
+	
+}
+.hf .head {
+	BORDER-RIGHT: #e4e4e4 1px solid; BORDER-TOP: #e4e4e4 1px solid; PADDING-LEFT: 35px; FONT-SIZE: 14px; BACKGROUND: url(../images/v1/bg1.gif); BORDER-LEFT: #e4e4e4 1px solid; LINE-HEIGHT: 33px; BORDER-BOTTOM: #e4e4e4 1px solid; HEIGHT: 33px
+}
+.hf .item {
+	BORDER-RIGHT: #e4e4e4 1px solid; BORDER-TOP: #e4e4e4 1px solid; MARGIN-BOTTOM: 10px; BORDER-LEFT: #e4e4e4 1px solid; BORDER-BOTTOM: #e4e4e4 1px solid
+}
+.hf .item .tit {
+	BACKGROUND: #fffcdf; LINE-HEIGHT: 35px; HEIGHT: 35px
+}
+.hf .item .tit .l {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #333
+}
+.hf .item .tit .l .hfr {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px
+}
+.hf .item .tit .r {
+	PADDING-RIGHT: 10px; FLOAT: right; COLOR: #666
+}
+.hf .item .content {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; LINE-HEIGHT: 23px; PADDING-TOP: 5px
+}
+.hf .item .showip {
+	PADDING-LEFT: 10px; COLOR: #ccc; PADDING-TOP: 15px; HEIGHT: 30px
+}
+.formbtn {
+	TEXT-ALIGN: center
+}
+.pagewltw {
+	BORDER-RIGHT: #b1ccdd 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #b1ccdd 1px solid; PADDING-LEFT: 5px; BACKGROUND: #f9f9f9; PADDING-BOTTOM: 5px; BORDER-LEFT: #b1ccdd 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #b1ccdd 1px solid
+}
+.pagewlhf {
+	BORDER-RIGHT: #b1ccdd 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #b1ccdd 1px solid; PADDING-LEFT: 5px; BACKGROUND: #f9f9f9; PADDING-BOTTOM: 5px; BORDER-LEFT: #b1ccdd 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #b1ccdd 1px solid
+}

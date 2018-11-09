@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_container"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height">
+
+    <TextView
+        android:textColor="@color/law_title_color"
+        android:textSize="13sp"
+        android:id="@+id/regulation"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/item_click_bkg"
+        android:drawableRight="@drawable/ic_arrow_right_24dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp" />
+
+</RelativeLayout>
+
